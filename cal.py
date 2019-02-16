@@ -30,7 +30,7 @@ while choice!=0:
     elif choice==4:
         print("Result: ",round(obj.div(),2))
     elif choice==0:
-        print("Exiting!")
+        print("you cant perfom any calculator operations.")
     else:
         print("Invalid choice!!")
  
